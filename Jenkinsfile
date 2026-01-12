@@ -1,5 +1,3 @@
-# Pipeline for Integrating Terraform and Jenkins
-
 pipeline {
 agent any
 
