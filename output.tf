@@ -3,7 +3,7 @@ value = local_file.filename.id
 }
 
 output "content" {
-value = local_file.content.id
+value = local_file.filename.content
 }
 
 output "message" {
